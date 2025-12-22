@@ -1,4 +1,2 @@
-
-C
 hlo
 this is the second sample file
