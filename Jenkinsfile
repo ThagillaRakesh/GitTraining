@@ -31,7 +31,7 @@ pipeline {
 
         stage('Run Container') {
             steps {
-                sh 'docker run $DOCKER_IMAGE'
+                sh 'docker run rakeshthagilla/leap-app 2024'
             }
         }
     }
